@@ -1,7 +1,7 @@
 # Hands-on-Machine-Learning-with-Scikit-Learn-Keras-TensorFlow
 
 
-<img width="300" src="https://github.com/user-attachments/assets/ifbccc63-e7d2-42dd-ac60-6688f58f9691" alt="Book Cover"/>  
+<img width="332" height="434" alt="Screenshot 2025-09-26 214720" src="https://github.com/user-attachments/assets/a630a1a8-6dc9-45d5-a1fc-179f6f0c779b" />
 
 
 ---
