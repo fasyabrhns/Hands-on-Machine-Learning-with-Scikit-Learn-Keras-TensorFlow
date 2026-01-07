@@ -1,0 +1,56 @@
+# Rangkuman Buku  
+## Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow  
+**Bab 1: The Machine Learning Landscape**
+
+### Pengertian Machine Learning
+Machine Learning (ML) adalah bidang ilmu yang memungkinkan komputer belajar dari data tanpa diprogram secara eksplisit. Sistem ML belajar dari pengalaman (data) untuk meningkatkan performa pada suatu tugas tertentu.
+
+### Mengapa Menggunakan Machine Learning
+ML digunakan ketika:
+- Aturan manual terlalu kompleks atau sulit dirawat
+- Masalah tidak memiliki solusi algoritmik yang jelas
+- Lingkungan data berubah-ubah
+- Kita ingin menemukan pola tersembunyi dari data (data mining)
+
+### Contoh Penerapan ML
+- Klasifikasi gambar (CNN)
+- Deteksi tumor (segmentasi)
+- Klasifikasi teks & NLP
+- Sistem rekomendasi
+- Deteksi penipuan
+- Reinforcement Learning (misalnya AlphaGo)
+
+### Jenis Sistem Machine Learning
+1. **Supervised Learning**  
+   Data memiliki label. Contoh: klasifikasi spam, regresi harga.
+2. **Unsupervised Learning**  
+   Data tanpa label. Contoh: clustering, anomaly detection.
+3. **Semi-supervised Learning**  
+   Kombinasi data berlabel dan tidak berlabel.
+4. **Reinforcement Learning**  
+   Agen belajar dari reward dan punishment.
+
+### Batch vs Online Learning
+- **Batch Learning**: Dilatih dari seluruh data secara offline.
+- **Online Learning**: Belajar bertahap dari data yang datang terus-menerus.
+
+### Instance-based vs Model-based Learning
+- **Instance-based**: Membandingkan data baru dengan data lama (kNN).
+- **Model-based**: Membuat model matematis dari data (Linear Regression).
+
+### Tantangan dalam Machine Learning
+- Data latih terlalu sedikit
+- Data tidak representatif
+- Data berkualitas buruk
+- Fitur tidak relevan
+- Overfitting
+
+### Ilustrasi dari Buku
+Berikut beberapa ilustrasi penting dari bab ini:
+
+![Gambar 1](images/figure_page_1.png)
+![Gambar 2](images/figure_page_2.png)
+![Gambar 3](images/figure_page_3.png)
+
+---
+Rangkuman ini ditujukan untuk tujuan pembelajaran.
